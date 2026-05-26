@@ -63,30 +63,10 @@ $ ./whoami
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlphaFoxz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaFoxz&layout=compact&theme=tokyonight&hide_border=true&card_width=500)
+![GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlphaFoxz&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlphaFoxz&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlphaFoxz&theme=tokyonight&no-frame=true&no-bg=true)
+![GitHub Streak](./profile/streak.svg)
 
 </div>
 
